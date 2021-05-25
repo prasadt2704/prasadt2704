@@ -6,17 +6,11 @@
 - ⚡ Fun fact: Apart from the techie side, I am a Food Blogger do checkout my [Instagram][instagram] 
 - 💬 Ask me about anything [here][issues]
 
-<hr style="border:2px solid black"></hr>
-
 ### Connect with me:
 
 [<img align="left" alt="prasadt2704.github.io" target="_blank" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Prasad | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Prasad | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-<hr style="border:2px solid black"></hr>
-#
 
 ### Languages and Tools used:
 
