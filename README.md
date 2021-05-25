@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Apart from the techie side, I am a Food Blogger do checkout my [Instagram][instagram] 
 - 💬 Ask me about anything [here][issues]
 
-***
+<hr/>
 
 ### Connect with me:
 
@@ -14,7 +14,8 @@
 [<img align="left" alt="Prasad | LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Prasad | Instagram" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-***
+<br/>
+<hr/>
 
 ### Languages and Tools used:
 
